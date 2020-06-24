@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.diaspora"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "MSSecureCardBank",
+    "packageName": "com.diaspora",
+    "packageFolder": "com/diaspora",
+    "serverPort": "8095",
+    "authenticationType": "uaa",
+    "uaaBaseName": "msuaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2IxZDYzMDhkZjM0YmE4NjEzZjllNGI0ODg5ZmE2NGZjNmY3ZDYxNmRlZTgzMDk3MWQ2MWVhY2IxZWM4M2RkOTk3MDE5YjNhZWIzMDNkYjE4ZTAzODRiMTI4NWNkN2FiMTY0ZmJhZDk1ZWNhNjE4MGJkYjhhYTFlMjRkOGRhOWE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1592985783480,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

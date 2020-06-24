@@ -1,0 +1,21 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "MSSecureCardBank",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "codeEncoded",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20200624095508",
+    "dto": "no",
+    "searchEngine": false,
+    "service": "no",
+    "entityTableName": "card_bank",
+    "databaseType": "sql",
+    "readOnly": false,
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "MSSecureCardBank"
+}
